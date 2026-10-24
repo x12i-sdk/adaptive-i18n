@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/adaptive-i18n-docs",
+  "packageVersion": "1.1.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/adaptive-i18n-docs",
+  "usageRepository": "https://github.com/x12i-sdk/adaptive-i18n",
+  "sourceRepository": "https://github.com/x12i/adaptive-i18n",
+  "sourceCommit": "335268e0ee46cb036fd23bca22378464a3a3c7d4",
+  "sourcePackageDirectory": "packages/adaptive-i18n-docs",
+  "example": {
+    "title": "List the bundled guides and read a use case",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T13:00:20.741767+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "59cef785940bb6e6d7936fd4cd13e3ed39f5e503de8fe5025474fab5a200b686",
+    "manifestSha256": "cec0a423d9073c9fea96f426c078b0915bb5af7419d6e1f595003369d799a4a5"
+  },
+  "npmPackages": [
+    "@x12i/adaptive-i18n-docs"
+  ],
+  "publisher": "x12i-publisher[bot]"
+}

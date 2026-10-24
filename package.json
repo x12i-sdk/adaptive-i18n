@@ -1,0 +1,22 @@
+{
+  "name": "adaptive-i18n-usage",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Usage example for @x12i/adaptive-i18n-docs: list the bundled guides and read a use case.",
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "start": "node src/index.mjs",
+    "check": "node --check src/index.mjs"
+  },
+  "devDependencies": {
+    "@x12i/adaptive-i18n-docs": "1.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/x12i-sdk/adaptive-i18n.git"
+  },
+  "homepage": "https://www.npmjs.com/package/@x12i/adaptive-i18n-docs"
+}
